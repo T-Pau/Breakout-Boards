@@ -1,0 +1,3 @@
+[submodule "KiCad-Library"]
+	path = KiCad-Library
+	url = https://dillof@github.com/T-Pau/KiCad-Library

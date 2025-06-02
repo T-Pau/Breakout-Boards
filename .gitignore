@@ -1,3 +1,6 @@
 .DS_Store
 /VGA-Breakout-backups
 /jlcpcb
+*/*-backups
+fp-info-cache
+jlcpcb
