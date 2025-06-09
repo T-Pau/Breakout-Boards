@@ -2495,6 +2495,16 @@
 	)
 	(wire
 		(pts
+			(xy 151.13 50.8) (xy 182.88 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6e2268ce-36e5-4386-abee-27079ddbbcb0")
+	)
+	(wire
+		(pts
 			(xy 91.44 63.5) (xy 120.65 63.5)
 		)
 		(stroke
@@ -2722,16 +2732,6 @@
 			(type default)
 		)
 		(uuid "99b5aa4b-cf92-4cb0-a2b7-fc7bebaaadf5")
-	)
-	(wire
-		(pts
-			(xy 151.1374 50.8) (xy 182.88 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "99c22212-2fa0-4169-b237-756c01185c40")
 	)
 	(wire
 		(pts
@@ -3461,7 +3461,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "T-Pau:SCART"
 			(at 135.89 57.15 0)
 			(effects
 				(font

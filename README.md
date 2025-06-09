@@ -1,6 +1,18 @@
-# Breakout Boards
+# Connector Breakout Boards
 
 ### Easy Access to Pins of Common Connectors for Prototyping or Testing
+
+## What Are These Boards?
+
+They provide easy access to each pin of a connector via a pin header, labeled with the pin number and its use. If a connector contains multiple ground pins, these can be connected on the board via jumpers.
+
+## Why Use These Boards?
+
+They make testing or prototyping cables easier by providing a robust connection and avoiding mixing up pins.
+
+## Getting Started
+
+You can produce these boards
 
 ## D-Sub 9, 15, and 25
 
